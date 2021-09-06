@@ -24,13 +24,14 @@ namespace SampleAppAPI.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<EntryItem>>> GetEntryItems()
         { 
-          try{
-            return await _context.EntryItems.ToListAsync();
-          }
-          catch (Exception ex)
-          {
-            return Ok(ex.Message);
-          }
+          return Ok("lolololo");
+          // try{
+          //   return await _context.EntryItems.ToListAsync();
+          // }
+          // catch (Exception ex)
+          // {
+          //   return Ok(ex.Message);
+          // }
         }
 
         // GET: api/EntryItems/5
