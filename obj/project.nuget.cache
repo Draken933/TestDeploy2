@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HFoNv4gfO1YJwrWIt0BmqcfwBwtNNyaH33HO/dR7vTe/gQyUsLSqr0Vp/O+Niks/H3665Y3r4E7+MbQo/dKGaQ==",
+  "dgSpecHash": "cToACthJrQcgy3gUim4CvO69EHdAYicNGoKSwsm5GkTrutypdM8xfkAPUSpoWCie+mXB7vq3Kt1e1kU8+znsew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eblej\\TestDeploy\\sampleappapi\\SampleAppAPI.csproj",
+  "projectFilePath": "C:\\Users\\eblej\\TestDeploy\\TestDeploy2\\SampleAppAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eblej\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\eblej\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

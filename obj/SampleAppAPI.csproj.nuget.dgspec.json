@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eblej\\TestDeploy\\sampleappapi\\SampleAppAPI.csproj": {}
+    "C:\\Users\\eblej\\TestDeploy\\TestDeploy2\\SampleAppAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eblej\\TestDeploy\\sampleappapi\\SampleAppAPI.csproj": {
+    "C:\\Users\\eblej\\TestDeploy\\TestDeploy2\\SampleAppAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eblej\\TestDeploy\\sampleappapi\\SampleAppAPI.csproj",
+        "projectUniqueName": "C:\\Users\\eblej\\TestDeploy\\TestDeploy2\\SampleAppAPI.csproj",
         "projectName": "SampleAppAPI",
-        "projectPath": "C:\\Users\\eblej\\TestDeploy\\sampleappapi\\SampleAppAPI.csproj",
+        "projectPath": "C:\\Users\\eblej\\TestDeploy\\TestDeploy2\\SampleAppAPI.csproj",
         "packagesPath": "C:\\Users\\eblej\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eblej\\TestDeploy\\sampleappapi\\obj\\",
+        "outputPath": "C:\\Users\\eblej\\TestDeploy\\TestDeploy2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eblej\\AppData\\Roaming\\NuGet\\NuGet.Config",
