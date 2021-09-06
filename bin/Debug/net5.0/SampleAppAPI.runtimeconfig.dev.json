@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\eblej\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\eblej\\.nuget\\packages"
+    ]
+  }
+}
