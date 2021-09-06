@@ -26,7 +26,7 @@ namespace SampleAppAPI.Controllers
         [HttpGet]
         public string Get()
         {
-          return "test lalalalalalalalalal";
+          return "test 23";
             // var rng = new Random();
             // return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             // {
